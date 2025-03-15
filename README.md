@@ -1,4 +1,4 @@
-# Q-A-Chatbot-USing-LLM
+# LLM-Powered-Q-A-and-Text-Generation-System
 
 ## AI-Powered Question Answering and Text Generation System
 * Built an LLM-powered Q&A and text generation system using LangChain, OpenAI GPT-4, and Hugging Face FLAN-T5.
